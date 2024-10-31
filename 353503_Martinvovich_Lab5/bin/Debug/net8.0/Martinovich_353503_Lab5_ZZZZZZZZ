@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Airports Count="2">
+  <Airport>
+    <Name>Airport 1</Name>
+    <Runways>
+      <Runway Name="Runway 1.1" />
+      <Runway Name="Runway 1.2" />
+    </Runways>
+  </Airport>
+  <Airport>
+    <Name>Airport 2</Name>
+    <Runways>
+      <Runway Name="Runway 2.1" />
+    </Runways>
+  </Airport>
+</Airports>

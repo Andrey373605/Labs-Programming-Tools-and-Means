@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Airport 1",
+    "Runways": [
+      {
+        "RunwayName": "Runway 1.1"
+      },
+      {
+        "RunwayName": "Runway 1.2"
+      }
+    ]
+  },
+  {
+    "Name": "Airport 2",
+    "Runways": [
+      {
+        "RunwayName": "Runway 2.1"
+      }
+    ]
+  }
+]

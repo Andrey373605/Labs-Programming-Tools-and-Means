@@ -1,0 +1,14 @@
+D:\c#\labs2sem\353503_Martinovich_Lab4\bin\Debug\net8.0\353503_Martinovich_Lab4.exe
+D:\c#\labs2sem\353503_Martinovich_Lab4\bin\Debug\net8.0\353503_Martinovich_Lab4.deps.json
+D:\c#\labs2sem\353503_Martinovich_Lab4\bin\Debug\net8.0\353503_Martinovich_Lab4.runtimeconfig.json
+D:\c#\labs2sem\353503_Martinovich_Lab4\bin\Debug\net8.0\353503_Martinovich_Lab4.dll
+D:\c#\labs2sem\353503_Martinovich_Lab4\bin\Debug\net8.0\353503_Martinovich_Lab4.pdb
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\353503_Martinovich_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\353503_Martinovich_Lab4.AssemblyInfoInputs.cache
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\353503_Martinovich_Lab4.AssemblyInfo.cs
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\353503_Martinovich_Lab4.csproj.CoreCompileInputs.cache
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\353503_Martinovich_Lab4.dll
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\refint\353503_Martinovich_Lab4.dll
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\353503_Martinovich_Lab4.pdb
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\353503_Martinovich_Lab4.genruntimeconfig.cache
+D:\c#\labs2sem\353503_Martinovich_Lab4\obj\Debug\net8.0\ref\353503_Martinovich_Lab4.dll

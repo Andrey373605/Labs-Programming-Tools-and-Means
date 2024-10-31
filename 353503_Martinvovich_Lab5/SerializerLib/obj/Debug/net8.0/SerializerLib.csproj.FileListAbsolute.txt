@@ -1,0 +1,15 @@
+D:\c#\labs2sem\SerializerLib\bin\Debug\net8.0\SerializerLib.deps.json
+D:\c#\labs2sem\SerializerLib\bin\Debug\net8.0\SerializerLib.dll
+D:\c#\labs2sem\SerializerLib\bin\Debug\net8.0\SerializerLib.pdb
+D:\c#\labs2sem\SerializerLib\bin\Debug\net8.0\Martinovich_353503_Lab5.Domain.dll
+D:\c#\labs2sem\SerializerLib\bin\Debug\net8.0\Martinovich_353503_Lab5.Domain.pdb
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.AssemblyReference.cache
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfoInputs.cache
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfo.cs
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.CoreCompileInputs.cache
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.CopyComplete
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\SerializerLib.dll
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\refint\SerializerLib.dll
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\SerializerLib.pdb
+D:\c#\labs2sem\SerializerLib\obj\Debug\net8.0\ref\SerializerLib.dll

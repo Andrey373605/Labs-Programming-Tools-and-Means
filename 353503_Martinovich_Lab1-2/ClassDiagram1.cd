@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_353503_Martinovich_Lab1.Collections.MyCustomCollection&lt;T&gt;">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="_353503_Martinovich_Lab1.Collections.MyCustomCollection&lt;T&gt;.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Collections\MyCustomCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="_353503_Martinovich_Lab1.Collections.MyCustomCollection&lt;T&gt;.MyCustomEnumerator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Collections\MyCustomCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgIAAACAgAAABBAADACABAQAgAgAAAAEAIAAAAAAAAA=</HashCode>
+      <FileName>Collections\MyCustomCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.456" />
+  </Class>
+  <Class Name="_353503_Martinovich_Lab1.Entities.BankSystem">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="_353503_Martinovich_Lab1.Entities.BankSystem.HandlerClient" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\BankSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="_353503_Martinovich_Lab1.Entities.BankSystem.HandlerDeposit" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\BankSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="_353503_Martinovich_Lab1.Entities.BankSystem.HandlerDepositToClient" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\BankSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAAIAQAiAAACAAQCSAAAAAAAQAAAAiCAAAAAE=</HashCode>
+      <FileName>Entities\BankSystem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Clients" />
+      <Property Name="DepositRates" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="_353503_Martinovich_Lab1.Entities.Client">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAQCAAAAAAAAQAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Deposits" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="_353503_Martinovich_Lab1.Entities.Deposit">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Deposit.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Rate" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_353503_Martinovich_Lab1.Entities.DepositRate">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\DepositRate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_353503_Martinovich_Lab1.Interfaces.ICustomCollection&lt;T&gt;">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAABAAACACABAQAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICustomCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

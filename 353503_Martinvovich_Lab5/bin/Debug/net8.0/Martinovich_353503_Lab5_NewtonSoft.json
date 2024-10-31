@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "c1c6562f-36e2-46bb-870f-e72d70666241",
+    "Name": "Airport 1",
+    "Runways": [
+      {
+        "Id": "20f621c0-4e40-454f-b4b4-cf3fe0a269f7",
+        "RunwayName": "Runway 1.1"
+      },
+      {
+        "Id": "4a6300d2-8abd-4a5c-b1b9-b55333d964b5",
+        "RunwayName": "Runway 1.2"
+      }
+    ]
+  },
+  {
+    "Id": "9ea4d74b-1aad-4d89-a2e0-b532517e9475",
+    "Name": "Airport 2",
+    "Runways": [
+      {
+        "Id": "9fcb148f-b453-46df-90fc-578c2984dc34",
+        "RunwayName": "Runway 2.1"
+      }
+    ]
+  }
+]

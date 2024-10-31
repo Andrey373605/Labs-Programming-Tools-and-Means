@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Airports Count="2">
+  <Airport>
+    <Name>Airport 1</Name>
+    <Runways>
+      <Runway Id="20f621c0-4e40-454f-b4b4-cf3fe0a269f7" />
+      <Runway Id="4a6300d2-8abd-4a5c-b1b9-b55333d964b5" />
+    </Runways>
+  </Airport>
+  <Airport>
+    <Name>Airport 2</Name>
+    <Runways>
+      <Runway Id="9fcb148f-b453-46df-90fc-578c2984dc34" />
+    </Runways>
+  </Airport>
+</Airports>

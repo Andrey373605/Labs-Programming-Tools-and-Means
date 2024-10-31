@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAirport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Airport>
+    <Id>c1c6562f-36e2-46bb-870f-e72d70666241</Id>
+    <Name>Airport 1</Name>
+    <Runways>
+      <Runway>
+        <Id>20f621c0-4e40-454f-b4b4-cf3fe0a269f7</Id>
+        <RunwayName>Runway 1.1</RunwayName>
+      </Runway>
+      <Runway>
+        <Id>4a6300d2-8abd-4a5c-b1b9-b55333d964b5</Id>
+        <RunwayName>Runway 1.2</RunwayName>
+      </Runway>
+    </Runways>
+  </Airport>
+  <Airport>
+    <Id>9ea4d74b-1aad-4d89-a2e0-b532517e9475</Id>
+    <Name>Airport 2</Name>
+    <Runways>
+      <Runway>
+        <Id>9fcb148f-b453-46df-90fc-578c2984dc34</Id>
+        <RunwayName>Runway 2.1</RunwayName>
+      </Runway>
+    </Runways>
+  </Airport>
+</ArrayOfAirport>
